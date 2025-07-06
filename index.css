@@ -1,0 +1,40 @@
+.header {
+    font-family: 'Garamond', serif;
+    display: flex;
+    justify-content: center;
+}
+.scndrow {
+    font-family: 'Garamond', serif;
+    display: flex;
+    justify-content: flex-end;
+    gap: 3rem;
+}
+.thrdrow {
+    font-family: 'Garamond', serif;
+    display: flex;
+    justify-content:flex-end;
+    gap: 3rem;
+}
+.fourthrow {
+    font-family: 'Garamond', serif;
+    display: flex;
+    justify-content: flex-end;
+}
+.fifthrow {
+    font-family: 'Garamond', serif;
+    display: flex;
+    justify-content: flex-end;
+    gap: 3rem;
+}
+.bottomrow {
+    font-family: 'Garamond', serif;
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-around;;
+}
+.img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
